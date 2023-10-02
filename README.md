@@ -1,16 +1,19 @@
 🚀 Welcome to My GitHub World! 🌟
 
 🔥 About Me:
-I'm [ASAD AMEEN], an aspiring [DATA SCIENTIST] passionate about [MACHINE LEARNING]. I'm an enthusiastic coder, tech enthusiast, and open-source advocate. My mission is to [empower industries and businesses to make data driven decision].
+I'm **ASAD AMEEN**, a **DATA SCIENTIST** passionate about MACHINE LEARNING. I'm an enthusiastic coder, tech enthusiast, and open-source advocate. My mission is to empower industries and businesses to make data driven decision.
 
-📦 Projects Highlights:
+📦 **Projects Highlights:**
 
-🌐 Restaurant Review Analysis 1: [Analyzing restaurant reviews for insights and trends to enhance dining experiences].
-📊 Life Expectancy World Bank Data Analysis 2: [Exploring global life expectancy trends and factors using World Bank data.].
-💡 Stock Project 3: [Predicting stock market movements with machine learning and financial analysis].
+🌐 Restaurant Review Analysis: Analyzing restaurant reviews for insights and trends to enhance dining experiences
+
+📊 Life Expectancy World Bank Data Analysis: Exploring global life expectancy trends and factors using World Bank data
+
+💡 Stock Project: Predicting stock market movements with machine learning and financial analysis
+
 Explore my repositories to discover more exciting projects!
 
-🛠️ Tech Stack:
+🛠️ **Tech Stack:**
 
 💻 [Python]: [High]
 🌐 [SQL]: [High]
